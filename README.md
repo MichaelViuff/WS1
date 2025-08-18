@@ -2,7 +2,7 @@ This repository contains resources for the [WS1](https://en.via.dk/link-tba) cou
 
 | Topics                                |   Preparations    |         Exercises          |
 | ------------------------------------- | :---------------: | :------------------------: |
-| CLI                                   | Reading material: | [Exercises](CLI\README.md) |
+| CLI                                   | Reading material: | [Exercises](CLI/README.md) |
 | Debugging                             | Reading material: | [Exercises](Debugging\README.md) |
 | GIT Basics                            | Reading material: | [Exercises](CLI\README.md) |
 | How to use GAI                        | Reading material: | [Exercises](CLI\README.md) |
