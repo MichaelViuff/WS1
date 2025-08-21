@@ -3,10 +3,10 @@ This repository contains resources for the [WS1](https://en.via.dk/link-tba) cou
 | Topics                                |   Preparations    |         Exercises          |
 | ------------------------------------- | :---------------: | :------------------------: |
 | CLI                                   | Reading material: | [Exercises](CLI/README.md) |
-| Debugging                             | Reading material: | [Exercises](Debugging\README.md) |
-| GIT Basics                            | Reading material: | [Exercises](CLI\README.md) |
-| How to use GAI                        | Reading material: | [Exercises](CLI\README.md) |
-| IDE and shortcuts                     | Reading material: | [Exercises](CLI\README.md) |
-| Seeking guidance from your supervisor | Reading material: | [Exercises](CLI\README.md) |
-| Some other topic                      | Reading material: | [Exercises](CLI\README.md) |
-| Last topic                            | Reading material: | [Exercises](CLI\README.md) |
+| Debugging                             | Reading material: | [Exercises](Debugging/README.md) |
+| GIT Basics                            | Reading material: | [Exercises](CLI/README.md) |
+| How to use GAI                        | Reading material: | [Exercises](CLI/README.md) |
+| IDE and shortcuts                     | Watch: <br> [Coding shortcuts](https://www.youtube.com/watch?v=eimdQeNG-68) <br> [Navigation shortcuts](https://www.youtube.com/watch?v=bWivMas6Ilw) | [Exercises](CLI/README.md) |
+| Seeking guidance from your supervisor | Reading material: | [Exercises](CLI/README.md) |
+| Some other topic                      | Reading material: | [Exercises](CLI/README.md) |
+| Last topic                            | Reading material: | [Exercises](CLI/README.md) |
