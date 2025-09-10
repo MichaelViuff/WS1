@@ -10,6 +10,18 @@ Efter at have gennemført dette modul har du opnået følgende færdigheder:
   
 ## Opgave
 
+### 1.
+
+1. Clone dette repository:
+[debug-demo](https://github.com/tkgregory/debug-demo)
+2. Ret fejlene: 
+   1. Why does the board only add horizontal but not vertical battleships?
+   2. Why do we never get message Ship sunk! when log output shows 3 direct hits?
+   3. Why do we sometimes see java.lang.ArrayIndexOutOfBoundsException?
+
+
 ## Aflevering
+
+Et screenshot af hver fejl, samt en tekstuel beskrivelse af hvordan man fandt frem til den.
 
 ## Godkendelseskriterier
