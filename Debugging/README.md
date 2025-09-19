@@ -1,4 +1,7 @@
 # Debugging
+I dette modul vil du lære at benytte debugging tools, en vigtig evne til at finde fejl i software.
+
+Modulet tager udgangspunkt i IntelliJ IDE, men de teknikker du lærer kan overføres til andre IDE'er.
 
 ## Læringsmål
 Efter at have gennemført dette modul har du opnået følgende færdigheder:

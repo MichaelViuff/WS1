@@ -1,7 +1,7 @@
 # Command Line Interface (CLI)
-I dette modul lærer du at arbejde med kommandolinjen – et af de mest grundlæggende og kraftfulde værktøjer i softwareudvikling. 
+I dette modul lærer du at arbejde med kommandolinjen, som er et af de mest grundlæggende værktøjer i softwareudvikling.
 
-Du vil få praktisk erfaring med at navigere i filsystemet, oprette og håndtere filer og mapper, samt kompilere og køre Java-programmer direkte fra terminalen.
+Modulet tager udgangspunkt i Windows' Kommandoprompt (Command Line Promp) eller Windows Powershell. Hvis du arbejder i et andet styresystem er det din egen opgave at finde et tilsvarende program.
 
 ## Læringsmål
 Efter at have gennemført dette modul har du opnået følgende færdigheder:
@@ -13,10 +13,12 @@ Efter at have gennemført dette modul har du opnået følgende færdigheder:
  
 ## Opgaver
 
-#### Opgave 1: Opret og navigér
+#### Opgave 1: Opret og naviger
+Brug terminalen i dit styresystem, til at udføre følgende opgave.
+
 1. Åbn terminalen
 2. Opret en ny mappe kaldet `cli_test`
-3. Navigér ind i mappen
+3. Naviger ind i mappen
 
 <details>
   <summary>Løsning</summary>
@@ -28,26 +30,30 @@ Efter at have gennemført dette modul har du opnået følgende færdigheder:
 </details>
 
 #### Opgave 2: Filhåndtering
-1. Opret en tom fil:
-2. Opret en undermappe:
-3. Flyt filen til undermappen:
-4. Slet undermappen og dens indhold:
+I den nye mappe du har oprettet, udfør følgende opgave.
+
+1. Opret en ny text-fil (i konsolen hvis du kan, og ellers så i dit styresystem)
+2. Opret en undermappe med navnet "archieve"
+3. Flyt text-filen til undermappen
+4. Naviger ind i undermappen
+5. Åbn text-filen via konsolen, eller skriv filens indhold ud i konsolen
 
 <details>
   <summary>Løsning</summary>
   
   ````bash
-    touch info.txt
-    mkdir archive
-    mv info.txt archive/
-    rm -r archive
+    echo this is some text > textfile.txt
+    mkdir archieve
+    mv textfile.txt archieve/
+    cd archieve
+    type textfile.txt
   ````
 </details>
 
-#### Opgave 3: Download og compile
+#### Opgave 3: Download og kompiler
 Download den udleverede fil HelloArgs.java.
 Navigér til mappen hvor filen ligger.
-Compile filen:
+kompiler filen:
 
 <details>
   <summary>Løsning</summary>

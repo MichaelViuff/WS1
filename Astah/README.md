@@ -1,5 +1,7 @@
 # Diagrammer
+I dette modul vil du lære mere om diagrammer og UML-notation, som bruges i flere stadier af softwareudvikling.
 
+Modulet fokuserer på programmet Astah, men andre diagramværktøjer kan også anvendes.
 
 ## Læringsmål
 Efter at have gennemført dette modul har du opnået følgende færdigheder:

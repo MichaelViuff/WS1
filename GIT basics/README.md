@@ -1,4 +1,7 @@
 # Basic Git
+I dette modul vil du lære de mest grundlæggende funktioner ved et versionsstyringsværktøj.
+
+Modulet tager udgangspunkt i Git og GitHub, og integration af disse i IntelliJ, men andre programmer, såsom GitHub Desktop kan også anvendes.
 
 ## Læringsmål
 Efter at have gennemført dette modul har du opnået følgende færdigheder:

@@ -1,4 +1,7 @@
 # Code Review
+I dette modul vil du lære at gennemgå kode, med henblik på at finde fejl eller forslag til forbedringer.
+
+Modulet tager udgangspunkt i GitHub, og pull-requests.
 
 ## Læringsmål
 Efter at have gennemført dette modul har du opnået følgende færdigheder:

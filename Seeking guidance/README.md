@@ -1,6 +1,7 @@
 # Vejledning og Outlook
+I dette modul vil du lære mere om hvordan du skaber de bedste forudsætninger for et godt møde med din vejleder.
 
-I dette modul vil du få praktisk erfaring med at søge vejledning samt benytte Outlook til at planlægge et møde med vejleder
+Modulet tager udgangspunkt i Outlook, og hvordan man opretter møder deri, men andre programmer kan også anvendes.
 
 ## Læringsmål
 

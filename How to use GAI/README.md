@@ -1,4 +1,8 @@
 # Generativ AI (GAI)
+I dette modul vil du lære at anvende generativ AI (GAI) på en ansvarlig måde i forbindelse med dit studie.
+
+Modulet tager udgangspunkt i Microsoft Copilot, men andre chatbots kan også anvendes.
+
 
 ## Læringsmål
 Efter at have gennemført dette modul har du opnået følgende færdigheder:
