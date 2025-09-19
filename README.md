@@ -4,7 +4,7 @@ The workshop consists of 8 modules:
 
 | Module                                |          Exercises          |
 | ---------------------------------------- |  :------------------------: |
-| Git and GitHub                           | [Exercises](Introduction%20to%20Git%20and%20GitHub/README.md) |
+| Git and GitHub                           | [Exercises](Git%20and%20GitHub/README.md) |
 | Command Line Interface (CLI)             | [Exercises](Command%20Line%20Interface%20(CLI)/README.md) |
 | Integrated Development Environment (IDE) | [Exercises](Integrated%20Developer%20Environment%20(IDE)/README.md) |
 | Generative AI (GAI)                      | [Exercises](Generative%20AI%20(GAI)/README.md) |
