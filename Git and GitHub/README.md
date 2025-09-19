@@ -1,19 +1,6 @@
-# Forberedelse
 
-Se disse videoer for at få en forståelse for hvad Git og GitHub er.
 
-[What is Git?](https://www.youtube.com/watch?v=2ReR1YJrNOM)\
-[What is Git and GitHub?](https://www.youtube.com/watch?v=QzvA7r-WndM)
-
-Installer [Git](https://git-scm.com/downloads)
-
-Opret en konto på (GitHub.com)[https://github.com/signup]
-
-https://code.visualstudio.com/docs/sourcecontrol/overview
-
-https://www.jetbrains.com/help/idea/set-up-a-git-repository.html
-
-# Basic Git
+# Introduction to Git and GitHub
 
 I dette modul vil du lære de mest grundlæggende funktioner ved et versionsstyringsværktøj, i dette tilfælde Git.
 
@@ -24,11 +11,27 @@ Modulet tager udgangspunkt i Git og GitHub, og integration af Git i IntelliJ og 
 Efter at have gennemført dette modul har du opnået følgende færdigheder:
 
 - Du kan oprette et Git-repository og forbinde det til GitHub.
-- Du kan oprette og skrive i README.md filer.
 - Du kan udføre meget simpel branching og pull-requests.
 - Du kan tilføje, committe og pushe filer til et fjernrepository.
 - Du kan pull changes til dit projekt.
 - Du kan clone et eksisterende repository og arbejde med det lokalt.
+
+## Forberedelse
+
+Se disse videoer for at få en forståelse for hvad Git og GitHub er.
+
+[What is Git?](https://www.youtube.com/watch?v=2ReR1YJrNOM)\
+[What is Git and GitHub?](https://www.youtube.com/watch?v=QzvA7r-WndM)
+
+Installer [Git](https://git-scm.com/downloads)
+
+Opret en konto på [GitHub.com](https://github.com/signup)
+
+Følgende links kan måske være hjælpsomme ifm. løsningen af opgaverne, men det er muligvis nemmere at følge trin-for-trin vejledningen i opgaverne.  
+Læs dem efter behov:
+
+https://code.visualstudio.com/docs/sourcecontrol/overview  
+https://www.jetbrains.com/help/idea/set-up-a-git-repository.html
 
 ## Opgaver
 
@@ -43,11 +46,11 @@ Hvis du har gjort alting rigtigt ender du med et repository der ser ud, cirka li
 > [!TIP]
 > Notér dit link til dette repository, det skal afleveres senere.
 
-### Opgave 2: Lav et nyt projekt i IntelliJ og commit og send til GitHub
+### Opgave 2: Lav et nyt projekt i IntelliJ, lav et commit, og send til GitHub
 
 I denne opgave vil vi oprette vores repository fra vores IDE i stedet for via GitHub's web interface som vi gjorde i den forrige opgave.
 
-Opgaven tager udgangspunkt i IntelliJ som IDE, men andre kan også bruges (trin-for-trin vejledningen passer kun til IntelliJ).
+Opgaven tager udgangspunkt i IntelliJ som IDE, men andre kan også bruges (trin-for-trin vejledningen passer til IntelliJ).
 
 Vi starter med at oprette et nyt projekt i IntelliJ
 
@@ -133,7 +136,7 @@ Nu er dit projekt lagt op i skyen på GitHub, og vi gjorde alting direkte fra vo
 > Notér dit link til dette repository, det skal afleveres senere.
 
 
-### Opgave 3: Hent projektet ind i VSCode
+### Opgave 3: Hent projektet ind i VSCode, lav ændringer, og send til GitHub
 
 I denne opgave vil vi hente et projekt fra GitHub ned til vores computer, og lave et par ændringer og pushe dem tilbage til GitHub.  
 
@@ -373,7 +376,7 @@ Fix merge conflict, og lav et nyt commit med dit fix.
 - Tjek GitHub – begge linjer er nu med (hvis du valgte "**Accept Both Changes**").
 
 
-#### Lav konflikt i IntelliJ
+#### Lav konflikt i IntelliJ og løs konflikten
 
 Gå nu tilbage til IntelliJ.
 
@@ -431,7 +434,7 @@ Aflever følgende links:
 
 1. Link til dit repository du oprettede i opgave 1
 2. Link til dit repository du oprettede i opgave 2
-3. Link til dit repository du oprettede i opgave 3 (hvis du genbrugte repository fra opgave 2, så bare aflever dette link igen)
+3. Link til dit repository du oprettede i opgave 4 (hvis du genbrugte repository fra opgave 2, så bare aflever dette link igen)
 
 Alle 3 links skrives direkte ind i afleveringen på Itslearning.
 
