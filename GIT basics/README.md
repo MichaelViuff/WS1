@@ -51,7 +51,7 @@ Her tages udgangspunkt i IntelliJ som IDE, men andre kan også bruges (trin-for-
 
 Vi starter med at oprette et nyt projekt i IntelliJ
 
-![Create new project](IntelliJ%20-%20Create%20new%20project.png =10x10)
+![Create new project](IntelliJ%20-%20Create%20new%20project.png | width=100)
 
 #### Trin-for-trin oprettelse af et nyt Java-projekt i IntelliJ
 - Åbn IntelliJ IDEA.
