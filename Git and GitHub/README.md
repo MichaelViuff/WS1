@@ -94,7 +94,7 @@ Den opdaterede `.gitignore` burde se cirka sådan her ud.
 #### Initialiser Git i IntelliJ
 Nu hvor vores `.gitignore` er opdateret er vi klar til at lægge vores projekt under versionskontrol.
 
-- Gå til VCS > Enable Version Control Integration.
+- Gå til menupunktet VCS > Enable Version Control Integration.
 - Vælg Git og klik OK.
 - IntelliJ initialiserer nu et Git-repository i projektmappen.
 
@@ -271,6 +271,7 @@ Linket skal bruges til næste del af opgaven.
 
 ![IntelliJ Clone repo](Images/IntelliJ%20Clone%20repo.png)
 
+- (Hvis du ikke ser ovenstående, så har IntelliJ sandsynligvis åbnet et tidligere projekt. Luk først dette, så burde du se ovenstående.)
 - Indsæt URL’en til GitHub-repoet og klik Clone.
 - Vælg et directory (mappe på din computer) som **ikke** er den samme mappe som den du brugte til VSCode projektet i det forrige trin.
 - Tryk "Clone".
