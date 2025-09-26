@@ -15,10 +15,10 @@ Modulet tager udgangspunkt i Outlook, og hvordan man opretter møder deri, men a
 
 Se disse videoer:  
 [How to Ask a Technical Question: The Right Way](https://www.youtube.com/watch?v=Gc9ilHp01vY&)  
-[Schedule an online meeting in Outlook](https://www.youtube.com/watch?v=k3LpRWj0dnA) (Her vises for Skype, men det er stort set det samme for Teams. Skype er vist ikke engang en mulighed længere...)  
+[Schedule an online meeting in Outlook](https://www.youtube.com/watch?v=k3LpRWj0dnA) (Her vises for Skype, brug Teams i stedet.)  
 [Check Meeting Availability Using Outlook Scheduling Assistant](https://www.youtube.com/watch?v=shURhm005KQ)  
-[How to use Scheduling Poll in Microsoft Outlook 365](https://www.youtube.com/watch?v=bMmOjJrlqPA) (lille ekstra mulighed når der skal findes tidspunkt for møder)  
 [How To Write An Awesome Meeting Agenda](https://www.youtube.com/watch?v=GAJV5hyrCD4)
+[How to use Scheduling Poll in Microsoft Outlook 365](https://www.youtube.com/watch?v=bMmOjJrlqPA) (Ekstra mulighed når der skal findes tidspunkt for møder)  
 
 Læs denne artikel:  
 [How to ask for programming help](https://www.red-gate.com/simple-talk/blogs/how-to-ask-for-programming-help/)
