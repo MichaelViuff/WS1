@@ -46,12 +46,13 @@ Lad som om du har et udkast klar til din Projektbeskrivelse, men at du gerne vil
 Sørg for at mødeindkaldelsen indeholder en fornuftig agenda.
 
 ## Aflevering
-
-Ingen.
-
-## Godkendelseskriterier
+Udførsel af opgaverne i henhold til følgende kriterier fører til godkendelse:
 
 - Anmodning om hjælp sendt via korrekt kommunikationskanal.
 - Anmodning er veldokumenteret.
 - Mødeindkaldelse sendt via korrekt kommunikationskanal.
 - Mødeindkaldelse indeholder fornuftig agenda.
+
+Angiv i aflevering på Itslearning når opgaven er fuldført.
+
+Deadline for udførsel kan ses på Itslearning.
