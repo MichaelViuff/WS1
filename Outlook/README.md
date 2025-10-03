@@ -55,4 +55,4 @@ Udførsel af opgaverne i henhold til følgende kriterier fører til godkendelse:
 
 Angiv i aflevering på Itslearning når opgaven er fuldført.
 
-Deadline for udførsel kan ses på Itslearning.
+Deadline og formalia kan ses på Itslearning.
