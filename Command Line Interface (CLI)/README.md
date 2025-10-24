@@ -110,7 +110,6 @@ Husk at de følgende trin skal udføres fuldstændigt via CLI, altså ikke noget
   > Du kan måske have alle kommandoerne i ét samlet screenshot. Alternativt lav et screenshot for hvert enkelt step. Brug gerne Snipping Tool eller lignende til at lave screenshots.
   > Læg også disse screenshots i din screenshot mappe, og commit og push disse.
 
-#### 
 ## Aflevering
 
 Saml alle dine screenshots i en mappe som lægges i dit GitHub repository i Opgave 3.  
