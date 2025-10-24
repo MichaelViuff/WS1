@@ -57,7 +57,7 @@ echo "Hello World" > hello.txt
 7. Naviger ind i undermappen
 8. Opret en kopi af `hello.txt`
 9. Flyt kopien et niveau op, dvs. tilbage til den mappe du kom fra
-10. Slet `hello.txt` fra mappen archieve
+10. Slet `hello.txt` fra mappen "Archieve"
 
 > [!IMPORTANT]  
 > Udfør disse 10 trin, og dokumenter dit arbejde via screenshots.  
