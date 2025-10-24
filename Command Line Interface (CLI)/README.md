@@ -61,7 +61,9 @@ echo "Hello World" > hello.txt
 
 > [!IMPORTANT]  
 > Udfør disse 10 trin, og dokumenter dit arbejde via screenshots.  
-> Du kan måske have alle kommandoerne i ét samlet screenshot. Alternativt lav et screenshot for hvert enkelt step. Brug gerne Snipping Tool eller lignende til at lave screenshots.
+> Du kan måske have alle kommandoerne i ét samlet screenshot.
+> Alternativt lav et screenshot for hvert enkelt step.
+> Brug gerne Snipping Tool eller lignende til at lave screenshots.
 
 ### Opgave 2: Java i CLI
 
@@ -87,7 +89,9 @@ Filen findes [her](CliDemo.java)
 
 > [!IMPORTANT]  
 > Udfør disse 5 trin, og dokumenter dit arbejde via screenshots.  
-> Du kan måske have alle kommandoerne i ét samlet screenshot. Alternativt lav et screenshot for hvert enkelt step. Brug gerne Snipping Tool eller lignende til at lave screenshots.
+> Du kan måske have alle kommandoerne i ét samlet screenshot.
+> Alternativt lav et screenshot for hvert enkelt step.
+> Brug gerne Snipping Tool eller lignende til at lave screenshots.
 
 ### Opgave 3: Git via CLI
 
@@ -105,10 +109,12 @@ Husk at de følgende trin skal udføres fuldstændigt via CLI, altså ikke noget
   4. Commit dine ændringer
   5. Push til GitHub
 
-  > [!IMPORTANT]  
-  > Udfør disse 5 trin, og dokumenter dit arbejde via screenshots.  
-  > Du kan måske have alle kommandoerne i ét samlet screenshot. Alternativt lav et screenshot for hvert enkelt step. Brug gerne Snipping Tool eller lignende til at lave screenshots.
-  > Læg også disse screenshots i din screenshot mappe, og commit og push disse.
+> [!IMPORTANT]
+> Udfør disse 5 trin, og dokumenter dit arbejde via screenshots.  
+> Du kan måske have alle kommandoerne i ét samlet screenshot.
+> Alternativt lav et screenshot for hvert enkelt step.
+> Brug gerne Snipping Tool eller lignende til at lave screenshots.
+> Læg også disse nye screenshots i din "Screenshots" mappe, og commit og push disse.
 
 ## Aflevering
 
