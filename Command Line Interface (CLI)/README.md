@@ -21,21 +21,22 @@ Se denne video for at få en grundlæggende forståelse for navigation i filsyst
 
 Disse kilder kan bruges til opslag når du arbejder med opgaverne, men det forventes ikke at du har læst dem igennem inden:
 
+[An A-Z Index of Windows PowerShell commands](https://ss64.com/ps/)  
 [The `javac` Command](https://docs.oracle.com/en/java/javase/17/docs/specs/man/javac.html)  
-[The `java` Command](https://docs.oracle.com/en/java/javase/19/docs/specs/man/java.html)
+[The `java` Command](https://docs.oracle.com/en/java/javase/19/docs/specs/man/java.html)  
 [Git Tutorial](https://www.w3schools.com/git/default.asp)
-
 
 ## Opgaver
 
 Du skal aflevere en hel del screenshots, men du skal ikke aflevere en fil som i [Modul - GAI](<../Generative AI (GAI)/README.md>).  
-Du skal derimod uploade alting til GitHub denne gang. Så sørg for at samle alle dine screenshots i een mappe, og giv gerne filerne passende navne.
+Du skal derimod uploade alting til GitHub denne gang. Så sørg for at samle alle dine screenshots i een mappe løbende, og giv gerne filerne passende navne.
+
+Når du laver opgaverne kommer du sandsynligvis til at opleve, at du ikke kender navnet på den kommando du skal bruge.  
+Her kan du enten forsøge at slå kommandoen op i kilderne ovenfor, eller du kan spørge din favorit AI om hjælp.
 
 ### Opgave 1: Grundlæggende CLI
 
 I denne opgave skal du udføre grundlæggende kommandoer til at navigere i filsystem, samt oprette mapper, slette filer, osv.
-
-#### Opret ny mappe
 
 1. Start med at oprette en ny mappe til denne workshop. Kald evt. mappen "Modul - CLI".
 2. Naviger ind i mappen
@@ -62,14 +63,14 @@ echo "Hello World" > hello.txt
 > Udfør disse 10 trin, og dokumenter dit arbejde via screenshots.  
 > Du kan måske have alle kommandoerne i ét samlet screenshot. Alternativt lav et screenshot for hvert enkelt step. Brug gerne Snipping Tool eller lignende til at lave screenshots.
 
-### Opgave 2: Java
+### Opgave 2: Java i CLI
 
 I denne opgave skal du bruge en udleveret `.java` fil.  
 Du skal ikke åbne filen, eller på nogen måde redigere i filen. Du skal derfor ikke bruge noget IDE til at køre filen. Alt sker igennem CLI denne gang.
 
 Filen findes [her](CliDemo.java)
 
-1. Start med at bruge `curl` til at hente filen.  
+1. Start med at bruge `curl` til at hente filen (kræver et link til [raw-filen](https://github.com/MichaelViuff/WS1/raw/refs/heads/main/Command%20Line%20Interface%20(CLI)/CliDemo.java)) eller bare download filen og kopier den ind i din mappe.  
 2. Kompiler filen vha. `javac`
 3. Kør filen (uden argumenter) vha. `java`
 
@@ -81,72 +82,38 @@ Filen findes [her](CliDemo.java)
 > hvor 8-tallet evt. erstattes med din udgave af JRE (Java Runtime Environment)
 > som kan findes ved at køre `java -version`
 
-4. Kør filen med -? eller andet argument til at få en liste over mulige input
-5. Kør filen så den 
+4. Kør filen med -? eller andet argument til at få vist en liste over mulige commands
+5. Kør filen så den udfører en af de tre commands den skrev ud i forrige trin
+
+> [!IMPORTANT]  
+> Udfør disse 5 trin, og dokumenter dit arbejde via screenshots.  
+> Du kan måske have alle kommandoerne i ét samlet screenshot. Alternativt lav et screenshot for hvert enkelt step. Brug gerne Snipping Tool eller lignende til at lave screenshots.
 
 ### Opgave 3: Git via CLI
 
 Til disse opgaver antages det at du allerede har været igennem [Modul - Git and GitHub](<../Git and GitHub/README.md>) og at du har gemt dine credentials i dit styresystem (det skete sandsynligvis automatisk da du koblede dit IDE sammen med din GitHub konto).
 
-Hvis det ikke er tilfældet skal du PAT bla bla.
+Hvis det ikke er tilfældet så gå tilbage og gennemfør [Modul - Git and GitHub](<../Git and GitHub/README.md>) først.
 
-Brug terminalen i dit styresystem, til at udføre følgende opgave.
+Hvis du stadig har problemer med credentials, så prøv at lave en [Personal Access Token](https://medium.com/@irfankaraman/how-to-create-a-personal-access-token-pat-for-your-github-account-d686a7890a33) og brug den i dine requests.
 
-1. Åbn terminalen
-2. Opret en ny mappe kaldet `cli_test`
-3. Naviger ind i mappen
+Husk at de følgende trin skal udføres fuldstændigt via CLI, altså ikke noget med at bruge GUI!
 
-<details>
-  <summary>Løsning</summary>
-  
-  ````bash
-  mkdir cli_test
-  cd cli_test
-  ````
-</details>
+  1. Clone dit repository fra Opgave 2 i [Modul - Git and GitHub](<../Git and GitHub/README.md>) (eller lav et nyt, tomt repository på GitHub og clone dette)
+  2. Opret en ny mappe i dit clonede repository med navnet "Screenshots"
+  3. Flyt alle dine screenshots fra Opgave 1 og Opgave 2 i dette modul ind i denne mappe
+  4. Commit dine ændringer
+  5. Push til GitHub
 
-### Opgave 2: Filhåndtering
-I den nye mappe du har oprettet, udfør følgende opgave.
+  > [!IMPORTANT]  
+  > Udfør disse 5 trin, og dokumenter dit arbejde via screenshots.  
+  > Du kan måske have alle kommandoerne i ét samlet screenshot. Alternativt lav et screenshot for hvert enkelt step. Brug gerne Snipping Tool eller lignende til at lave screenshots.
+  > Læg også disse screenshots i din screenshot mappe, og commit og push disse.
 
-1. Opret en ny text-fil (i konsolen hvis du kan, og ellers så i dit styresystem)
-2. Opret en undermappe med navnet "archieve"
-3. Flyt text-filen til undermappen
-4. Naviger ind i undermappen
-5. Åbn text-filen via konsolen, eller skriv filens indhold ud i konsolen
-
-<details>
-  <summary>Løsning</summary>
-  
-  ````bash
-    echo this is some text > textfile.txt
-    mkdir archieve
-    mv textfile.txt archieve/
-    cd archieve
-    type textfile.txt
-  ````
-</details>
-
-#### Opgave 3: Download og kompiler
-Download den udleverede fil HelloArgs.java.
-Navigér til mappen hvor filen ligger.
-kompiler filen:
-
-<details>
-  <summary>Løsning</summary>
-  
-  ````bash
-  javac HelloArgs.java
-  java HelloArgs Michael Viuff
-  ````
-</details>
-
+#### 
 ## Aflevering
 
- - Et skærmbillede der viser terminal med filhåndtering og kompilering/kørsel.
- - En tekstfil med din refleksion.
+Saml alle dine screenshots i en mappe som lægges i dit GitHub repository i Opgave 3.  
+Send et link til dit repository.
 
-## Godkendelseskriterier
-
- - Skærmbillede viser brug af mindst 5 relevante CLI-kommandoer.
- - Java-programmet er korrekt kompileret og kørt med argumenter.
- - Refleksion viser forståelse for kommandoernes funktion og anvendelse.
+Deadline og formalia kan ses på Itslearning.
