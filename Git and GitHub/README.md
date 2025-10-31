@@ -1,5 +1,3 @@
-
-
 # Introduction to Git and GitHub
 
 I dette modul vil du lære de mest grundlæggende funktioner ved et versionsstyringsværktøj, i dette tilfælde Git.
