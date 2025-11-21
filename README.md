@@ -9,6 +9,6 @@ The workshop consists of 8 modules:
 | Integrated Development Environment (IDE) | [Exercises](Integrated%20Developer%20Environment%20(IDE)/README.md) |
 | Generative AI (GAI)                      | [Exercises](Generative%20AI%20(GAI)/README.md) |
 | Code-review                              | [Exercises](Code-review/README.md) |
-| UML diagrams                             | [Exercises](UML%20diagrams/README.md) |
+| <del>UML diagrams </del>                 | [Exercises](UML%20diagrams/README.md) |
 | Debugging                                | [Exercises](Debugging/README.md) |
 | Outlook                                  | [Exercises](Outlook/README.md) |
