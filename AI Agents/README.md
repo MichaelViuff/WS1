@@ -23,8 +23,6 @@ Efter at have gennemført dette modul har du opnået følgende færdigheder:
 
 Læs de udvalgte afsnit i GitHubs artikel [Agent mode 101: All about GitHub Copilot’s powerful mode](https://github.blog/ai-and-ml/github-copilot/agent-mode-101-all-about-github-copilots-powerful-mode/).
 
-**Sprog:** Engelsk. **Afsæt:** Cirka 5 minutter til de udvalgte afsnit.
-
 1. Læs afsnittet **“But first, what is GitHub Copilot agent mode?”**, herunder listen over, hvad agenten kan gøre. Det giver et overblik over, hvordan en kodeagent kan arbejde med en opgave.
 2. Spring derefter til **“Take this with you”** nederst i artiklen. Her beskrives betydningen af tydelige instruktioner, relevant kontekst og din egen gennemgang af resultatet.
 
