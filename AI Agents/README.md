@@ -19,6 +19,24 @@ Efter at have gennemført dette modul har du opnået følgende færdigheder:
 
 ## Forberedelse
 
+### Start her: En kort introduktion
+
+Læs de udvalgte afsnit i GitHubs artikel [Agent mode 101: All about GitHub Copilot’s powerful mode](https://github.blog/ai-and-ml/github-copilot/agent-mode-101-all-about-github-copilots-powerful-mode/).
+
+**Sprog:** Engelsk. **Afsæt:** Cirka 5 minutter til de udvalgte afsnit.
+
+1. Læs afsnittet **“But first, what is GitHub Copilot agent mode?”**, herunder listen over, hvad agenten kan gøre. Det giver et overblik over, hvordan en kodeagent kan arbejde med en opgave.
+2. Spring derefter til **“Take this with you”** nederst i artiklen. Her beskrives betydningen af tydelige instruktioner, relevant kontekst og din egen gennemgang af resultatet.
+
+Resten af artiklen er valgfri. Eksemplerne tager udgangspunkt i VS Code; her skal du blot forstå arbejdsformen, så du behøver ikke installere noget eller følge eksemplerne trin for trin.
+
+Tænk over disse to spørgsmål, før du går videre:
+
+- Hvad kan en kodeagent gøre med projektets filer, som et almindeligt chatsvar ikke gør?
+- Hvorfor skal du stadig læse og afprøve koden, selvom agenten siger, at opgaven er løst?
+
+Du skal ikke aflevere svarene; brug dem til at kontrollere, at du har forstået hovedidéen.
+
 ### Hvad er en kodeagent?
 
 En AI-chat kan give dig forklaringer og kodeforslag. En kodeagent har også adgang til værktøjer: Den kan eksempelvis læse projektfiler, redigere kode og køre programmet eller tests. Den kan bruge resultaterne til at forsøge en rettelse. Hvad den faktisk kan gøre, afhænger af værktøjet og de tilladelser, du giver den.
