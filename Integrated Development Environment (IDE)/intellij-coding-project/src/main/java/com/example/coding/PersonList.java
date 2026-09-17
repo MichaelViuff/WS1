@@ -13,14 +13,14 @@ public class PersonList {
 
                                                             persons.add(person);    }
 
-    public Person findPersonByAge(int i) {        for (Person person : persons)
+    public Person findPersonByAge() {        for (Person person : persons)
         {
 
 
 
 
 
-            if(person.getAge() == i)
+            if(person.getAge() == 10)
             {return person;
             }
         }return null;}
