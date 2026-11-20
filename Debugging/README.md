@@ -15,7 +15,7 @@ Efter at have gennemført dette modul har du opnået følgende færdigheder:
 
 Se denne video for at få en grundlæggende forståelse for Debugging i IntelliJ:
 
-[Debug Java Like a Pro in IntelliJ IDEA](https://www.youtube.com/watch?v=IeUZZoZE3sU)
+[Debug Java Like a Pro in IntelliJ IDEA](https://videoportal.via.dk/media/Debug+Java+Like+a+Pro+in+IntelliJ+IDEA/1_50tcn56q)
 
 ## Opgaver
 
